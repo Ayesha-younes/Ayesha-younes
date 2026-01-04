@@ -2,75 +2,70 @@
   <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 
+<!-- COVER GIF -->
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/cover.gif" alt="Ayesha Cover" />
+  </a>
+</p>
+
 <br>
-<h1 align="center">Ayesha Younes</h1>
+
+<!-- TOP SECTION -->
+<h1 align="center">Hi 👋, I'm Ayesha Younes</h1>
 <h3 align="center">
-  Computer Science Student | CCNA Certified | Cloud Basics | Graphic Designing
+  Computer Science Student | CCNA Certified | Cloud Basics | Graphic Designing (Concepts)
 </h3>
 
 <p align="center">
-  A motivated computer science student with a foundation in networking and cloud concepts,
-  along with an interest in graphic designing and emerging technologies.
+  🌱 Currently learning AI & Python | 💻 Networking & Cloud Fundamentals | ✨ Exploring creativity in design
 </p>
 
 <hr>
-<h3>👩‍💻 About Me</h3>
 
-<ul>
-  <li>🎓 Computer Science student</li>
-  <li>📡 CCNA Certified</li>
-  <li>☁️ Completed Huawei Cloud (Basic Course)</li>
-  <li>🤖 Currently learning Artificial Intelligence</li>
-  <li>🐍 Learning Python programming</li>
-  <li>🎨 Familiar with graphic designing ( Canva ) and creative sketching</li>
-</ul>
+<!-- TECHNICAL SKILLS -->
 <h3>🛠 Technical Skills</h3>
-
 <p>
-  • C & C++<br>
-  • HTML & CSS<br>
-  • Python (Learning)<br>
-  • Computer Networking (CCNA)<br>
-  • Cloud Computing (Basic Knowledge)<br>
-  • Canva (Graphic Design & Visual Content)<br>
-  • Git & GitHub
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/CCNA-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Canva-purple?style=for-the-badge">
 </p>
+
+<!-- SKILL PROGRESS BARS -->
+<h3>📊 Skill Progress</h3>
+<p>
+  HTML   ▓▓▓▓▓▓░░░░ 70%<br>
+  CSS    ▓▓▓▓▓░░░░░ 60%<br>
+  C      ▓▓▓▓▓▓▓░░░ 75%<br>
+  C++    ▓▓▓▓▓░░░░░ 60%<br>
+  Python ▓▓▓░░░░░░ 40%<br>
+  Canva  ▓▓▓▓▓░░░░░ 60%
+</p>
+
+<!-- CREATIVE SKILLS -->
 <h3>🎨 Creative & Design Skills</h3>
+<ul>
+  <li>Graphic Designing (Course Completed – Concepts)</li>
+  <li>Sketching & Hand Drawing</li>
+</ul>
 
-<p>
-  • Graphic Designing (Course completed – concepts based)<br>
-  • Sketching & Hand Drawing
-</p>
+<!-- CURRENT LEARNING -->
 <h3>📚 Currently Learning</h3>
-
 <ul>
   <li>Artificial Intelligence fundamentals</li>
-  <li>Python for logic building and automation</li>
-  <li>Practical networking and cloud concepts</li>
+  <li>Python for logic and automation</li>
+  <li>Networking & Cloud practical concepts</li>
 </ul>
-<h3>🔧 Tools & Technologies</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/C-blue">
-  <img src="https://img.shields.io/badge/C++-blue">
-  <img src="https://img.shields.io/badge/HTML-5-orange">
-  <img src="https://img.shields.io/badge/CSS-3-blue">
-  <img src="https://img.shields.io/badge/Python-Learning-yellow">
-  <img src="https://img.shields.io/badge/CCNA-Networking-green">
-  <img src="https://img.shields.io/badge/Cloud-Basics-lightgrey">
-  <img src="https://img.shields.io/badge/Canva-Design-purple">
-</p>
-<h3>🌱 Personal Strengths</h3>
-
-<p>
-  • Honest and dedicated learner<br>
-  • Strong interest in technology and creativity<br>
-  • Willing to learn new tools and concepts<br>
-  • Balanced technical and creative mindset
-</p>
+<!-- FOOTER -->
 <hr>
-
 <p align="center">
-  ⭐ Always eager to learn and grow in the field of technology
+  ⭐ Continuously learning and improving as a computer science student
 </p>
+
 
