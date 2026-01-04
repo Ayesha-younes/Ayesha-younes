@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/cover.png" alt="Ayesha Younes Cover" />
+  <img src="images/profile.jpg" alt="Ayesha Younes Cover" />
 </p>
 
 <br>
