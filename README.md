@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.jpg" alt="Ayesha Younes Cover" />
+  <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 
 <br>
