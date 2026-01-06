@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyeshaYounes&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-younes&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <hr>
@@ -59,15 +59,15 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaYounes&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaYounes&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-younes&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaYounes&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-younes&layout=compact&theme=radical" />
 </p>
 
 <hr>
@@ -76,7 +76,7 @@
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/AyeshaYounes/AyeshaYounes/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Ayesha-younes/Ayesha-younes/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <hr>
