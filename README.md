@@ -76,7 +76,7 @@
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/Ayesha-younes/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Ayesha-younes/Ayesha-younes/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <hr>
