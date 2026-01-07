@@ -81,7 +81,7 @@
 <h2>🐍 Contribution Flow</h2>
 
 <p align="center">
-  <img src="generate-snk-graph.yml" />
+  <img src="images/github-contribution-grid-snake.svg" />
 </p>
 
 ---
