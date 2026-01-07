@@ -81,5 +81,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=box&text1=Always%20Learning&text2=Always%20Growing&width=900&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=box&text1=Always%20Learning&text2=Always%20Growing&width=900&height=60" />
 </p>
