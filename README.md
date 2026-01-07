@@ -2,121 +2,101 @@
   <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 <br>
-<!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2933&height=200&section=header&text=Ayesha%20Younes&fontSize=40&fontColor=58A6FF&animation=fadeIn"/>
-</p>
-
-<!-- ===== TYPING ANIMATION (SAME AS YOU LIKED) ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=JetBrains+Mono
-  &weight=500
-  &size=22
-  &pause=900
-  &color=58A6FF
-  &center=true
-  &vCenter=true
-  &width=900
-  &lines=Hello%2C+I%27m+Ayesha+Younes;Computer+Science+Student;CCNA+Certified;Building+Strong+Programming+Logic;AI+%26+Cloud+Learner" />
-</p>
-
-<!-- ===== MOVING DIVIDER ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
-</p>
-
-## 👩‍💻 About Me
-
-<p align="left">
-  <img align="right" width="160"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</p>
-
-- 🎓 **Computer Science Student**
-- 📡 **CCNA Certified** (Networking)
-- ☁️ Huawei Cloud – Basic
-- 🐍 Python (logic building)
-- 🤖 Artificial Intelligence learner
-- 🎨 Canva Designing & sketching
-
-<!-- ===== MOVING DIVIDER ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
-</p>
-
-## 🛠 Tech Stack
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Ayesha Younes</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,linux&theme=dark"/>
-</p>
-
-<!-- ===== MOVING DIVIDER ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
-</p>
-
-## 📊 GitHub Stats (LIVE & WORKING)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;CCNA+Certified;Learning+AI+%26+Python;Creative+Designer+%26+Sketcher" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayesha-younes&theme=github-dark&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=AyeshaYounes&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<hr>
+
+<!-- ABOUT ME -->
+<h2>👩‍💻 About Me</h2>
+
+<ul>
+  <li>🎓 Computer Science Student</li>
+  <li>📡 CCNA Certified (Networking)</li>
+  <li>☁️ Huawei Cloud – Basic Course Completed</li>
+  <li>🤖 Currently learning Artificial Intelligence</li>
+  <li>🐍 Learning Python for logic building</li>
+  <li>🎨 Graphic Designing (Canva) & Creative Sketching</li>
+</ul>
+
+<hr>
+
+<!-- SKILLS -->
+<h2>🛠 Technical Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github" />
+</p>
+
+<p>
+• Computer Networking (CCNA)<br>
+• Cloud Computing (Basics)<br>
+• Canva – Visual & Graphic Design
+</p>
+
+<hr>
+
+<!-- CURRENT LEARNING -->
+<h2>📚 Currently Learning</h2>
+
+<ul>
+  <li>Artificial Intelligence Fundamentals</li>
+  <li>Python for Automation & Logic</li>
+  <li>Practical Networking & Cloud</li>
+</ul>
+
+<hr>
+
+<!-- GITHUB STATS -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaYounes&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-younes&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaYounes&theme=radical" />
 </p>
 
-<!-- ===== MOVING DIVIDER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaYounes&layout=compact&theme=radical" />
 </p>
 
-## 📈 Contribution Graph
+<hr>
+
+<!-- CONTRIBUTION GRAPH -->
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Ayesha-younes" />
+  <img src="https://github.com/AyeshaYounes/AyeshaYounes/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- ===== MOVING DIVIDER ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
+<hr>
+
+<!-- CREATIVE -->
+<h2>🎨 Creative Side</h2>
+
+<p>
+• Graphic Designing (Concept-based Course Completed)<br>
+• Sketching & Hand Drawing<br>
+• Balanced technical + creative mindset
 </p>
 
-## 🏆 GitHub Achievements
+<hr>
 
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayesha-younes&theme=onedark&no-frame=true&column=4" />
+  🌱 Always eager to learn, grow & explore new technologies
 </p>
 
-<!-- ===== MOVING DIVIDER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
-</p>
-
-## 🌱 Current Focus
-
-- C / C++ **problem solving**
-- Python for **AI foundations**
-- Web basics (HTML & CSS)
-- GitHub consistency & growth
-
-<!-- ===== TYPING MOTIVATION ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=JetBrains+Mono
-  &size=18
-  &pause=1200
-  &color=8B949E
-  &center=true
-  &width=700
-  &lines=Consistency+over+perfection;Learning+one+line+of+code+at+a+time" />
-</p>
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:0d1117&height=140&section=footer"/>
+  ⭐ If you like my profile, feel free to connect!
 </p>
