@@ -28,8 +28,9 @@
   <li>🎨 Graphic Designing (Canva) + Creative Sketching</li>
 </ul>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.svg" width="100%">
 </p>
+
 
 ---
 
