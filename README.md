@@ -2,117 +2,91 @@
   <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 <br>
-<!-- DARK TECH HEADER -->
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Ayesha+Younes" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=22D3EE&center=true&vCenter=true&width=800&lines=Computer+Science+Student;CCNA+Certified+Network+Learner;Cloud+Basics+%7C+AI+Explorer;Python+Learner+%7C+Creative+Thinker" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ayesha%20Younes&fontSize=45&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Computer+Science+Student;CCNA+Certified+Network+Learner;Cloud+Basics+%26+AI+Enthusiast;Creative+Designer+%26+Sketcher" />
 </p>
 
 ---
 
-<!-- ABOUT / JOURNEY -->
+<!-- EXPERIENCE -->
 <h2>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"/>
-  My Journey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  Experience & Background
 </h2>
 
 <ul>
-  <li>🎓 Computer Science student with strong technical curiosity</li>
-  <li>📡 CCNA Certified – networking fundamentals & protocols</li>
-  <li>☁️ Huawei Cloud (Basic) – cloud concepts & architecture</li>
-  <li>🐍 Python learner – logic building & automation</li>
-  <li>🤖 Exploring Artificial Intelligence fundamentals</li>
-  <li>🎨 Graphic designing (Canva) & creative sketching</li>
+  <li>🎓 Computer Science Student</li>
+  <li>📡 CCNA Certified – Networking Fundamentals</li>
+  <li>☁️ Huawei Cloud (Basic Course Completed)</li>
+  <li>🤖 Exploring Artificial Intelligence concepts</li>
+  <li>🐍 Python – Logic Building & Practice</li>
+  <li>🎨 Graphic Designing (Canva) + Creative Sketching</li>
 </ul>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
 
 ---
 
 <!-- SKILLS -->
 <h2>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"/>
-  Tech Stack
+  ⚙️ Technical Skills
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github" />
 </p>
 
-<p align="center">
-  Networking (CCNA) • Cloud Basics • Canva • GitHub
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
----
-
-<!-- VISUAL TECH -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<p>
+✔ Computer Networking (CCNA)<br>
+✔ Cloud Computing – Basics<br>
+✔ Canva – Visual & Creative Design
 </p>
 
 ---
 
-<!-- GITHUB PROGRESS (SAFE VISIBLE VERSION) -->
-<h2>📊 GitHub Progress</h2>
+<!-- LEARNING -->
+<h2>
+  🌱 Currently Learning
+</h2>
+
+<ul>
+  <li>Artificial Intelligence Fundamentals</li>
+  <li>Python for Automation</li>
+  <li>Advanced Networking Concepts</li>
+</ul>
+
+---
+
+<!-- GITHUB STATS -->
+<h2>📊 GitHub Performance</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=8b5cf6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayesha-younes&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-younes&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-younes&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-younes&theme=react-dark" />
 </p>
 
 ---
 
-<!-- SOCIALS -->
-<h2>🔗 Connect With Me</h2>
+<!-- SNAKE -->
+<h2>🐍 Contribution Flow</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayesha%20Younes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Ayesha-younes/Ayesha-younes/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- FOOTER (TEXT INSIDE, NOT BIG) -->
+<!-- FOOTER -->
 <p align="center">
-  🌱 Always learning, always growing in technology<br>
-  ⭐ Every commit reflects progress in my journey<br>
-  💡 Blending creativity with technology to build meaningful solutions
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
