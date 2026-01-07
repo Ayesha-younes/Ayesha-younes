@@ -4,7 +4,7 @@
 <br>
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:161b22&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header"/>
 </p>
 
 <h1 align="center">Ayesha Younes</h1>
@@ -13,23 +13,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;CCNA+Certified;AI+%26+Cloud+Learner;Graphic+Designer+%26+Sketcher" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Coding Animation"/>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student  
-- 📡 **CCNA Certified** – Networking fundamentals  
-- ☁️ Huawei Cloud (Basic) – completed  
-- 🐍 Python learner (logic & foundations)  
-- 🤖 Exploring Artificial Intelligence  
-- 🎨 Graphic designing (Canva) & sketching  
+- 🎓 Computer Science Student  
+- 📡 **CCNA Certified** – Networking Fundamentals  
+- ☁️ Huawei Cloud (Basic) – Completed  
+- 🐍 Python Learner – Logic & AI Foundations  
+- 🤖 Exploring Artificial Intelligence & Cloud Computing  
+- 🎨 Graphic Designing (Canva) & Sketching  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180" alt="AI Learning"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,canva&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,canva,aws&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200" alt="Cloud Animation"/>
 </p>
 
 ---
@@ -48,12 +60,15 @@
 
 ## 🌱 Current Focus
 
-- Strengthening **programming logic**
-- Problem solving with **C/C++**
-- Python for **AI & Machine Learning foundations**
-- Web basics (HTML & CSS)
-- Professional Git & GitHub usage
-- Networking & Cloud technologies
+- Strengthening **programming logic** (C/C++)  
+- Python for **AI foundations**  
+- Web Basics (HTML & CSS)  
+- Networking & Cloud Technologies  
+- Professional **Git & GitHub usage**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="200" alt="Learning Animation"/>
+</p>
 
 ---
 
@@ -81,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:161b22,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer"/>
 </p>
