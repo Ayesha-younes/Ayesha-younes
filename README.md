@@ -4,46 +4,45 @@
 <br>
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Ayesha%20Younes&fontSize=38&fontColor=58A6FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2933&height=200&section=header&text=Ayesha%20Younes&fontSize=40&fontColor=58A6FF&animation=fadeIn"/>
 </p>
 
+<!-- ===== TYPING ANIMATION (SAME AS YOU LIKED) ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com
   ?font=JetBrains+Mono
+  &weight=500
   &size=22
   &pause=900
   &color=58A6FF
   &center=true
   &vCenter=true
   &width=900
-  &lines=Hello%2C+I%27m+Ayesha+Younes;Computer+Science+Student;CCNA+Certified;Building+Programming+Logic;AI+%26+Cloud+Learner" />
+  &lines=Hello%2C+I%27m+Ayesha+Younes;Computer+Science+Student;CCNA+Certified;Building+Strong+Programming+Logic;AI+%26+Cloud+Learner" />
 </p>
 
----
-
-<!-- ============== ANIMATED DIVIDER (WORKING) ============== -->
+<!-- ===== MOVING DIVIDER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
 </p>
 
 ## 👩‍💻 About Me
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="110"/>
+<p align="left">
+  <img align="right" width="160"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </p>
 
 - 🎓 **Computer Science Student**
 - 📡 **CCNA Certified** (Networking)
-- ☁️ Huawei Cloud (Basic)
-- 🐍 Python (logic & foundations)
-- 🤖 AI learner
+- ☁️ Huawei Cloud – Basic
+- 🐍 Python (logic building)
+- 🤖 Artificial Intelligence learner
 - 🎨 Canva Designing & sketching
 
----
-
-<!-- ============== ANIMATED DIVIDER ============== -->
+<!-- ===== MOVING DIVIDER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
 </p>
 
 ## 🛠 Tech Stack
@@ -52,14 +51,12 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,linux&theme=dark"/>
 </p>
 
----
-
-<!-- ============== GRAPH SECTION (100% SHOW) ============== -->
+<!-- ===== MOVING DIVIDER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
 </p>
 
-## 📊 GitHub Stats (REAL)
+## 📊 GitHub Stats (LIVE & WORKING)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&theme=github_dark&hide_border=true" />
@@ -73,11 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-younes&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
-<!-- ============== CONTRIBUTION GRAPH (WORKING) ============== -->
+<!-- ===== MOVING DIVIDER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
 </p>
 
 ## 📈 Contribution Graph
@@ -86,24 +81,30 @@
   <img src="https://ghchart.rshah.org/58A6FF/Ayesha-younes" />
 </p>
 
----
+<!-- ===== MOVING DIVIDER ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
+</p>
 
-<!-- ============== TROPHIES ============== -->
+## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayesha-younes&theme=onedark&no-frame=true&column=4" />
 </p>
 
----
+<!-- ===== MOVING DIVIDER ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
+</p>
 
 ## 🌱 Current Focus
 
-- Logic building with **C / C++**
-- Python for **AI basics**
-- Web fundamentals (HTML & CSS)
-- Git & GitHub consistency
+- C / C++ **problem solving**
+- Python for **AI foundations**
+- Web basics (HTML & CSS)
+- GitHub consistency & growth
 
----
-
+<!-- ===== TYPING MOTIVATION ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com
   ?font=JetBrains+Mono
@@ -112,12 +113,10 @@
   &color=8B949E
   &center=true
   &width=700
-  &lines=Consistency+over+perfection" />
+  &lines=Consistency+over+perfection;Learning+one+line+of+code+at+a+time" />
 </p>
-
----
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:0d1117&height=140&section=footer"/>
 </p>
