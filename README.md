@@ -1,10 +1,9 @@
-
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Ayesha Younes</h1>
 <p align="center">
   <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 <br>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Ayesha Younes</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;CCNA+Certified;Learning+AI+%26+Python;Creative+Designer+%26+Sketcher" />
 </p>
