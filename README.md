@@ -27,6 +27,9 @@
   <li>🐍 Python – Logic Building & Practice</li>
   <li>🎨 Graphic Designing (Canva) + Creative Sketching</li>
 </ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+</p>
 
 ---
 
