@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Coding Animation"/>
+  <!-- Professional coding GIF -->
+  <img src="https://media.giphy.com/media/xT9IgmK4E2qYw3lQ8k/giphy.gif" width="180" alt="Coding Animation"/>
 </p>
 
 ---
@@ -59,6 +60,7 @@
 - Professional Git & GitHub usage  
 
 <p align="center">
+  <!-- Professional AI/GitHub GIF -->
   <img src="https://media.giphy.com/media/3o7aD6MTgB75dW7aak/giphy.gif" width="180" alt="AI Learning"/>
 </p>
 
