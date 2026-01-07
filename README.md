@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <!-- Professional coding GIF -->
-  <img src="https://media.giphy.com/media/xT9IgmK4E2qYw3lQ8k/giphy.gif" width="180" alt="Coding Animation"/>
+  <!-- Professional coding animation GIF -->
+  <img src="https://media.giphy.com/media/26gslD9uFvH8twX7C/giphy.gif" width="180" alt="Coding Animation"/>
 </p>
 
 ---
@@ -23,19 +23,19 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Student  
-- 📡 CCNA Certified – Networking Fundamentals  
-- ☁️ Huawei Cloud (Basic)  
+- 📡 **CCNA Certified** – Networking Fundamentals  
+- ☁️ Huawei Cloud Basics  
 - 🐍 Python – Logic & AI Foundations  
-- 🤖 Exploring AI & ML  
+- 🤖 Exploring Artificial Intelligence & Machine Learning  
 - 🖥️ Web Development – HTML & CSS  
-- 🎨 Graphic Design – Canva & Sketching  
+- 🎨 Graphic Designing – Canva & Sketching  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,linux&theme=dark"/>
 </p>
 
 ---
@@ -60,8 +60,8 @@
 - Professional Git & GitHub usage  
 
 <p align="center">
-  <!-- Professional AI/GitHub GIF -->
-  <img src="https://media.giphy.com/media/3o7aD6MTgB75dW7aak/giphy.gif" width="180" alt="AI Learning"/>
+  <!-- Professional AI/Programming animation -->
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="180" alt="AI Learning"/>
 </p>
 
 ---
