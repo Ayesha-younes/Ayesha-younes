@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
-</p>
-<br>
+
 <!-- ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ayesha%20Younes&fontSize=45&fontAlignY=35&animation=fadeIn" />
 </p>
-
+<p align="center">
+  <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
+</p>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Computer+Science+Student;CCNA+Certified+Network+Learner;Cloud+Basics+%26+AI+Enthusiast;Creative+Designer+%26+Sketcher" />
 </p>
