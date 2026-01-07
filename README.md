@@ -4,53 +4,45 @@
 <br>
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=160&section=header"/>
 </p>
 
 <h1 align="center">Ayesha Younes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;CCNA+Certified;AI+%26+Cloud+Learner;Python+%26+C%2B%2B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;CCNA+Certified;Python+%26+C%2B%2B;AI+%26+Cloud+Learner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6MTgB75dW7aak/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Coding Animation"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 **Computer Science Student**  
-- 📡 **CCNA Certified** – Networking Fundamentals  
-- ☁️ **Huawei Cloud (Basic)** – Cloud Technologies  
-- 🐍 **Python** – AI & Logic Foundations  
-- 🤖 **AI & ML Enthusiast**  
-- 🖥️ **Web Development** – HTML & CSS  
-- 🎨 **Graphic Design** – Canva & Sketching  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="AI Learning"/>
-</p>
+- 🎓 Computer Science Student  
+- 📡 CCNA Certified – Networking Fundamentals  
+- ☁️ Huawei Cloud (Basic)  
+- 🐍 Python – Logic & AI Foundations  
+- 🤖 Exploring AI & ML  
+- 🖥️ Web Development – HTML & CSS  
+- 🎨 Graphic Design – Canva & Sketching  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,aws,docker,kubernetes,linux&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="200" alt="Cloud Computing Animation"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github&theme=dark"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Ayesha-younes" />
+  <img src="https://ghchart.rshah.org/58A6FF/Ayesha-younes" alt="GitHub Chart"/>
 </p>
 
 <p align="center">
@@ -63,12 +55,11 @@
 
 - Strengthening **C/C++ programming logic**  
 - Python for **AI/ML foundations**  
-- Web Development (HTML & CSS)  
-- Networking & Cloud Technologies  
-- Professional **Git & GitHub usage**  
+- Web basics (HTML & CSS)  
+- Professional Git & GitHub usage  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Learning Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD6MTgB75dW7aak/giphy.gif" width="180" alt="AI Learning"/>
 </p>
 
 ---
