@@ -10,26 +10,27 @@
 <h1 align="center">Ayesha Younes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;CCNA+Certified;AI+%26+Cloud+Learner;Graphic+Designer+%26+Sketcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;CCNA+Certified;AI+%26+Cloud+Learner;Python+%26+C%2B%2B" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD6MTgB75dW7aak/giphy.gif" width="200" alt="Coding Animation"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Student  
+- 🎓 **Computer Science Student**  
 - 📡 **CCNA Certified** – Networking Fundamentals  
-- ☁️ Huawei Cloud (Basic) – Completed  
-- 🐍 Python Learner – Logic & AI Foundations  
-- 🤖 Exploring Artificial Intelligence & Cloud Computing  
-- 🎨 Graphic Designing (Canva) & Sketching  
+- ☁️ **Huawei Cloud (Basic)** – Cloud Technologies  
+- 🐍 **Python** – AI & Logic Foundations  
+- 🤖 **AI & ML Enthusiast**  
+- 🖥️ **Web Development** – HTML & CSS  
+- 🎨 **Graphic Design** – Canva & Sketching  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180" alt="AI Learning"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="AI Learning"/>
 </p>
 
 ---
@@ -37,11 +38,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,canva,aws&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,aws,docker,kubernetes,linux&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200" alt="Cloud Animation"/>
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="200" alt="Cloud Computing Animation"/>
 </p>
 
 ---
@@ -60,14 +61,14 @@
 
 ## 🌱 Current Focus
 
-- Strengthening **programming logic** (C/C++)  
-- Python for **AI foundations**  
-- Web Basics (HTML & CSS)  
+- Strengthening **C/C++ programming logic**  
+- Python for **AI/ML foundations**  
+- Web Development (HTML & CSS)  
 - Networking & Cloud Technologies  
 - Professional **Git & GitHub usage**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="200" alt="Learning Animation"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Learning Animation"/>
 </p>
 
 ---
