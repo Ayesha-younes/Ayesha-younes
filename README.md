@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyeshaYounes&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-younes&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <hr>
