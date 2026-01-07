@@ -69,15 +69,15 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-younes&theme=vision-friendly-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-younes&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 <hr>
