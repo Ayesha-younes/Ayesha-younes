@@ -2,100 +2,91 @@
   <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 <br>
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Ayesha Younes</h1>
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;CCNA+Certified;Learning+AI+%26+Python;Creative+Designer+%26+Sketcher" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ayesha%20Younes&fontSize=45&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayesha-younes&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Computer+Science+Student;CCNA+Certified+Network+Learner;Cloud+Basics+%26+AI+Enthusiast;Creative+Designer+%26+Sketcher" />
 </p>
 
-<hr>
+---
 
-<!-- ABOUT ME -->
-<h2>👩‍💻 About Me</h2>
+<!-- EXPERIENCE -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  Experience & Background
+</h2>
 
 <ul>
   <li>🎓 Computer Science Student</li>
-  <li>📡 CCNA Certified (Networking)</li>
-  <li>☁️ Huawei Cloud – Basic Course Completed</li>
-  <li>🤖 Currently learning Artificial Intelligence</li>
-  <li>🐍 Learning Python for logic building</li>
-  <li>🎨 Graphic Designing (Canva) & Creative Sketching</li>
+  <li>📡 CCNA Certified – Networking Fundamentals</li>
+  <li>☁️ Huawei Cloud (Basic Course Completed)</li>
+  <li>🤖 Exploring Artificial Intelligence concepts</li>
+  <li>🐍 Python – Logic Building & Practice</li>
+  <li>🎨 Graphic Designing (Canva) + Creative Sketching</li>
 </ul>
 
-<hr>
+---
 
 <!-- SKILLS -->
-<h2>🛠 Technical Skills</h2>
+<h2>
+  ⚙️ Technical Skills
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github" />
 </p>
 
 <p>
-• Computer Networking (CCNA)<br>
-• Cloud Computing (Basics)<br>
-• Canva – Visual & Graphic Design
+✔ Computer Networking (CCNA)<br>
+✔ Cloud Computing – Basics<br>
+✔ Canva – Visual & Creative Design
 </p>
 
-<hr>
+---
 
-<!-- CURRENT LEARNING -->
-<h2>📚 Currently Learning</h2>
+<!-- LEARNING -->
+<h2>
+  🌱 Currently Learning
+</h2>
 
 <ul>
   <li>Artificial Intelligence Fundamentals</li>
-  <li>Python for Automation & Logic</li>
-  <li>Practical Networking & Cloud</li>
+  <li>Python for Automation</li>
+  <li>Advanced Networking Concepts</li>
 </ul>
 
-<hr>
+---
 
 <!-- GITHUB STATS -->
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Performance</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-younes&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha-younes&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-younes&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
-
-<hr>
-
-<!-- CONTRIBUTION GRAPH -->
-<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/Ayesha-younes/Ayesha-younes/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
 </p>
 
-<hr>
+---
 
-<!-- CREATIVE -->
-<h2>🎨 Creative Side</h2>
+<!-- SNAKE -->
+<h2>🐍 Contribution Flow</h2>
 
-<p>
-• Graphic Designing (Concept-based Course Completed)<br>
-• Sketching & Hand Drawing<br>
-• Balanced technical + creative mindset
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
-<hr>
+---
 
 <!-- FOOTER -->
 <p align="center">
-  🌱 Always eager to learn, grow & explore new technologies
-</p>
-
-<p align="center">
-  ⭐ If you like my profile, feel free to connect!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
