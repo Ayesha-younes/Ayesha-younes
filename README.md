@@ -2,131 +2,60 @@
   <img src="WhatsApp Image 2026-01-04 at 5.30.53 PM.jpeg" alt="Ayesha Younes Cover" />
 </p>
 <br>
-<!-- ================= HEADER ================= -->
+<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:161b22&height=160&section=header"/>
 </p>
 
 <h1 align="center">Ayesha Younes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=Computer+Science+Student;CCNA+Certified;Building+Strong+Programming+Foundations;AI+%26+Cloud+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;CCNA+Certified;Building+Strong+Programming+Foundations;AI+%26+Cloud+Learner" />
 </p>
 
-<hr>
+---
 
-<!-- ================= SECTION 1 ================= -->
-<table>
-<tr>
-<td width="50%">
+## 👩‍💻 About Me
 
-### 📘 My Current Learning Path
+- 🎓 Computer Science student  
+- 📡 **CCNA Certified** – Networking fundamentals  
+- ☁️ Huawei Cloud (Basic) – completed  
+- 🐍 Python learner (logic & foundations)  
+- 🤖 Exploring Artificial Intelligence  
+- 🎨 Graphic designing (Canva) & sketching  
 
-- Strengthening **programming logic**
-- Deep focus on **C++ problem solving**
-- Python for **AI foundations**
-- Web fundamentals (HTML & CSS)
-- Professional **Git & GitHub workflow**
+---
 
-</td>
-<td width="50%" align="center">
+## 🛠 Tech Stack
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="360"/>
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<!-- ================= SECTION 2 ================= -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340"/>
-
-</td>
-<td width="50%">
-
-### 🎓 Academic & Skill Journey
-
-- Computer Science student  
-- **CCNA Certified** (Networking basics & protocols)  
-- **Huawei Cloud – Basic Course** completed  
-- Building AI understanding step-by-step  
-- Creative side through **Canva & Sketching**
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<!-- ================= SECTION 3 ================= -->
-<table>
-<tr>
-<td width="50%">
-
-### 🛠 Core Technologies
-
-- C / C++  
-- Python (Learning)  
-- HTML & CSS  
-- Networking (CCNA)  
-- Cloud Basics  
-- Git & GitHub  
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<!-- ================= REAL GRAPHS ================= -->
-## 📊 GitHub Activity (Real & Visible)
-
-### 🔹 Contribution Heatmap
 <p align="center">
-  <img src="https://ghchart.rshah.org/22D3EE/Ayesha-younes"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github&theme=dark"/>
 </p>
 
-### 🔹 GitHub Trophies
+---
+
+## 📈 GitHub Activity (REAL & WORKING)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/Ayesha-younes" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayesha-younes&theme=darkhub&no-frame=true&column=4"/>
 </p>
 
-<hr>
+---
 
-<!-- ================= SECTION 4 ================= -->
-<table>
-<tr>
-<td width="50%" align="center">
+## 🌱 Current Focus
 
-<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/Developer.gif" width="340"/>
+- Strengthening **programming logic**
+- Problem solving with **C++**
+- Python for **AI foundations**
+- Web basics (HTML & CSS)
+- Professional Git & GitHub usage
 
-</td>
-<td width="50%">
+---
 
-### 🌱 What I’m Building
-
-- Strong logical thinking  
-- Consistency in coding  
-- Practical understanding over shortcuts  
-- A future in **AI & Cloud technologies**
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<!-- ================= LINKS ================= -->
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -135,15 +64,15 @@
   </a>
 </p>
 
-<hr>
+---
 
-<!-- ================= FOOTER ================= -->
+<!-- ===== FOOTER ===== -->
 <p align="center">
   🌱 Always learning, always improving<br>
-  ⭐ Every day I grow a little more than yesterday<br>
-  💡 Consistency today, mastery tomorrow
+  ⭐ Consistency over perfection<br>
+  💡 Small steps today, strong future tomorrow
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:161b22,100:0d1117&height=120&section=footer"/>
 </p>
